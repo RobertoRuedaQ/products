@@ -1,3 +1,16 @@
+Category.create(name: "Perfumes")
+Category.create(name: "Libros")
+Category.create(name: "Tecnología")
+Category.create(name: "Oficina")
+Category.create(name: "Electrodomésticos")
+Category.create(name: "Ropa")
+Category.create(name: "Calzado")
+Category.create(name: "Technology")
+Category.create(name: "Hombre")
+Category.create(name: "Mujer")
+Category.create(name: "Niños")
+
+
 # This file should contain all the record creation needed to seed the database with its default values.
 # The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
 #
